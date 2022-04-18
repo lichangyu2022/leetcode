@@ -1,5 +1,7 @@
 package org.leetcode.learn.easy;
 
+import org.leetcode.learn.entity.ListNode;
+
 /**
  * 删除排序链表中的重复元素 leetcode 83
  * 给定一个已排序的链表的头 head ， 删除所有重复的元素，使每个元素只出现一次 。返回 已排序的链表 。
@@ -27,16 +29,30 @@ public class DeleteDuplicates {
             return head;
         }
 
-        while (null != head.next){
+        ListNode res = head;
 
-            if(head.next.val == head.val){
-                head.next = head.next.next;
+        while (null != res.next){
+
+            if(res.next.val == res.val){
+                res.next = res.next.next;
             }else {
-                head = head.next;
+                res = res.next;
             }
 
         }
 
         return head;
     }
+
+
+
+
+
+
+
+
+
+
+
+
 }
