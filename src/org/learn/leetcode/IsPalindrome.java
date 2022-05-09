@@ -1,8 +1,6 @@
-package org.leetcode.learn.easy;
+package org.learn.leetcode;
 
-import org.leetcode.learn.entity.ListNode;
-
-import static org.leetcode.learn.easy.ReverseList.reverseList;
+import org.learn.entity.ListNode;
 
 
 /**
@@ -43,7 +41,7 @@ public class IsPalindrome {
         }
 
         //反转过后，可判断是否是回文
-        slow = reverseList(slow);
+        slow = ReverseList.reverseList(slow);
         fast = head;
         while (null != slow){
             if(fast.val != slow.val){

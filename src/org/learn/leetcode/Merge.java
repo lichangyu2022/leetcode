@@ -1,4 +1,4 @@
-package org.leetcode.learn.easy;
+package org.learn.leetcode;
 
 /**
  * 两数组合并  leetcode 99

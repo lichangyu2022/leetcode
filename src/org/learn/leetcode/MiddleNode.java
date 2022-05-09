@@ -1,6 +1,6 @@
-package org.leetcode.learn.easy;
+package org.learn.leetcode;
 
-import org.leetcode.learn.entity.ListNode;
+import org.learn.entity.ListNode;
 
 /**
  * leetcode 876. 链表的中间结点

@@ -1,4 +1,4 @@
-package org.leetcode.learn.easy;
+package org.learn.leetcode;
 
 /**
  * 移动零 leetcode 283

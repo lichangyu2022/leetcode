@@ -1,4 +1,4 @@
-package org.leetcode.learn.entity;
+package org.learn.entity;
 
 public class ListNode {
 
