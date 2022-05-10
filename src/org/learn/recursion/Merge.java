@@ -1,4 +1,4 @@
-package org.learn.leetcode;
+package org.learn.recursion;
 
 /**
  * 两数组合并  leetcode 99

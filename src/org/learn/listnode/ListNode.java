@@ -1,4 +1,4 @@
-package org.learn.entity;
+package org.learn.listnode;
 
 public class ListNode {
 

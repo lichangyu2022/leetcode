@@ -1,4 +1,4 @@
-package org.learn.leetcode;
+package org.learn.recursion;
 
 /**
  * 移动零 leetcode 283
@@ -12,7 +12,7 @@ public class MoveZeroes {
 
 
     public static void main(String[] args) {
-        int[] nums = new int[] {0,1,0,3,12};
+        int[] nums = new int[] {3,1,0,3,12};
 
         moveZeroes(nums);
         System.out.println();

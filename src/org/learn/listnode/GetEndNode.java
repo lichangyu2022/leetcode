@@ -1,6 +1,4 @@
-package org.learn.offer;
-
-import org.learn.entity.ListNode;
+package org.learn.listnode;
 
 /**
  * 剑指offer 22
@@ -31,6 +29,8 @@ public class GetEndNode {
         for(int i = 1; i < k; i++){
             if(null != fast){
                 fast = fast.next;
+            }else {
+                return null;
             }
         }
 

@@ -1,6 +1,4 @@
-package org.learn.leetcode;
-
-import org.learn.entity.ListNode;
+package org.learn.listnode;
 
 /**
  * leetcode 142 环形链表二

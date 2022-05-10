@@ -1,6 +1,4 @@
-package org.learn.leetcode;
-
-import org.learn.entity.ListNode;
+package org.learn.listnode;
 
 /**
  * 合并两个有序链表 leetcode 21
@@ -19,7 +17,7 @@ public class MergeTwoLists {
 
         ListNode list2 = new ListNode(1);
         list2.next = new ListNode(3);
-        list2.next.next = new ListNode(4);
+        //list2.next.next = new ListNode(4);
 
         mergeTwoLists(list1,list2);
 

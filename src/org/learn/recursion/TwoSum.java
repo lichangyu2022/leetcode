@@ -1,4 +1,4 @@
-package org.learn.leetcode;
+package org.learn.recursion;
 
 import java.util.HashMap;
 

@@ -1,6 +1,4 @@
-package org.learn.leetcode;
-
-import org.learn.entity.ListNode;
+package org.learn.listnode;
 
 /**
  * 删除排序链表中的重复元素 leetcode 83
