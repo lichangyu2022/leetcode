@@ -1,4 +1,4 @@
-leetcode 和剑指offer 的部分题目
+比较常见算法
 
 
 # 链表
@@ -28,3 +28,10 @@ leetcode 和剑指offer 的部分题目
 |------------|------------------|-----------------------|
 | leetcode | 232.用栈实现队列       | MyQueue                |
 | leetcode | 394. 字符串解码       | DecodeString           |
+
+# 二叉树
+| 类别         | 题目           | 题解                 |
+|------------|--------------|--------------------|
+| leetcode | 94.二叉树中序遍历   | InorderTraversal   |
+| leetcode | 144. 二叉树前序遍历 | PreorderTraversal  |
+| leetcode | 145. 二叉树后续遍历 | PostorderTraversal |
