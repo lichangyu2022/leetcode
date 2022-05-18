@@ -35,3 +35,7 @@
 | leetcode | 94.二叉树中序遍历   | InorderTraversal   |
 | leetcode | 144. 二叉树前序遍历 | PreorderTraversal  |
 | leetcode | 145. 二叉树后续遍历 | PostorderTraversal |
+| leetcode | 101. 对称二叉树   | IsSymmetric        |
+| leetcode | 104. 二叉树最大深度 | MaxDepth           |
+| leetcode | 110. 平衡二叉树   | IsBalanced         |
+| leetcode | 226. 翻转二叉树   | InvertTree         |
