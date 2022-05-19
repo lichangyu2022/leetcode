@@ -39,3 +39,11 @@
 | leetcode | 104. 二叉树最大深度 | MaxDepth           |
 | leetcode | 110. 平衡二叉树   | IsBalanced         |
 | leetcode | 226. 翻转二叉树   | InvertTree         |
+
+
+# 排序算法
+| 类别         | 题目           | 题解        |
+|------------|--------------|-----------|
+|  | 冒泡           | Bubble    |
+|  | 选择           | Selection |
+|  | 插入           | Insertion |
