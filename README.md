@@ -42,9 +42,15 @@
 
 
 # 排序算法
-| 类别         | 题目  | 题解        |
-|------------|-----|-----------|
-|  | 冒泡  | Bubble    |
-|  | 选择  | Selection |
-|  | 插入  | Insertion |
-|  | 快速  | Quick     |
+| 类别         | 题目 | 题解        |
+|------------|--|-----------|
+|  | 冒泡 | Bubble    |
+|  | 选择 | Selection |
+|  | 插入 | Insertion |
+|  | 快速 | Quick     |
+|  | 希尔 | Shell     |
+|  | 归并 | Merge     |
+|  | 堆  | Heap     |
+|  | 计数    | Count     |
+|  | 捅    | Bucket     |
+|  | 基数    | Radix     |
