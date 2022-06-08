@@ -24,10 +24,11 @@
 | leetcode | 448.找到所有数组中消失的数字 | FindDisappearedNumbers |
 
 # 栈
-| 类别         | 题目               | 题解                 |
-|------------|------------------|-----------------------|
-| leetcode | 232.用栈实现队列       | MyQueue                |
-| leetcode | 394. 字符串解码       | DecodeString           |
+| 类别         | 题目               | 题解           |
+|------------|------------------|--------------|
+| leetcode | 232.用栈实现队列       | MyQueue      |
+| leetcode | 394. 字符串解码       | DecodeString |
+| leetcode | 20. 有效的括号       | IsValid      |
 
 # 二叉树
 | 类别         | 题目           | 题解                 |
